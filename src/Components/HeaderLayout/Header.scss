@@ -1,0 +1,34 @@
+.headerBgColor{
+    background-color: #383e4b;
+    padding: 1%;
+    height: 50px;
+}
+
+.headline-color{
+    color: #ffffff;
+}
+
+.headline{
+    float: left;
+    padding-left: 1%;
+}
+
+.location{
+    float: right;
+    padding-right: 17%;
+    position: relative;
+}
+
+.pic {
+    margin: 06px !important;
+    display: inline-block;
+    vertical-align: middle;
+    width: 0;
+    height: 0;
+}
+
+.arrow-down {
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-top: 6px solid #ffffff !important;
+  }

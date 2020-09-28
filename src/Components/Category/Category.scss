@@ -1,0 +1,38 @@
+.floatLeft{
+    float: left;
+}
+
+.boxDesign{
+    max-width: fit-content;
+    border: 1px solid lightskyblue;
+    box-shadow: 3px 3px 5px 6px #ccc;
+    margin: 2%;
+}
+
+.labelDesign{
+    color: #ffffff;
+    background-color: blue;
+    padding: 2%;
+    font-weight: bold;
+}
+
+
+.boxDesign:hover{
+    transform: scale(1.05);
+    cursor: pointer;
+}
+
+
+.pic {
+    margin: 50px;/* demo spacing */
+    display: inline-block;
+    vertical-align: middle;
+    width: 0; 
+    height: 0; 
+  }
+
+  .arrow-right {
+    border-top: 8px solid transparent;
+    border-bottom: 8px solid transparent;
+    border-left: 9px solid #737373;
+  }

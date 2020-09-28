@@ -1,0 +1,36 @@
+.menu{
+    background: transparent;
+    color: #ffffff;
+    border: 0;
+}
+
+.optionColor{
+    background-color:  #ffffff;
+    color: black;
+    text-align: start;
+    /* padding: 2%; */
+    padding-left: 13%;
+    border-bottom: 1px solid lightgray;
+    list-style-type: none;
+    width: 137px;
+}
+
+.dropdownBorder{
+    padding: 0;
+    border: 1px solid lightgray;
+    position: absolute;
+    top: 150%;
+    // margin-top: 11%;
+    // margin-left: 4%
+}
+
+.positionRelative{
+    position: relative;
+}
+
+.subdropdown{
+    position: absolute;
+    left: 1p;
+    top: -1px;
+    left: 100%;
+}

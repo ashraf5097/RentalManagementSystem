@@ -1,0 +1,64 @@
+.logoBgColor{
+    background-color:#2d323c
+}
+
+.footer {
+    left: 0;
+    bottom: 0;
+    color: white;
+    /* text-align: center; */
+    position: absolute;
+    padding-left: 13%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #1b75bb;
+ }
+
+ .full-width {
+	float: left;
+    width: 100%;
+    text-align: start
+}
+
+.user-option{
+    color: #ffffff;
+    padding-left: 10%;
+    cursor: pointer;
+}
+.user-option-selected{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #1b75bb;
+}
+
+.settingIcon{
+    display: flex;
+    /* text-align: left; */
+    float: right;
+    padding-right: 2px;
+}
+
+.rightArrowIcon{
+    transform: rotate(270deg);
+}
+
+.userText{
+    position: relative;
+    top: 5px;
+}
+
+.optionsOverAllPadding{
+    padding-left: 4%;
+}
+
+.width10{
+    width: 10%;
+}
+
+.width8{
+    width: 8%;
+}
+
+.width11{
+    width: 11%;
+}
